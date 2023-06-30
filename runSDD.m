@@ -8,4 +8,4 @@ disp("Project Opened successfully...")
 % Run 'genSDD' on 'testModel'
 disp("Executing genSDD...")
 genSDD('TestModel',[],'CI');
-disp("genSDD Ran Successfully...")
+disp("genSDD Ran Successfully!")
